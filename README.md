@@ -3,9 +3,7 @@ AngularJS-based recipe finder with API integration and responsive UI.
 <img width="1920" height="828" alt="image" src="https://github.com/user-attachments/assets/ac63289f-33d2-48ae-a465-f4f307b851f9" />
 Recipe Finder Web Application
 
-Recipe Finder is a recipe web application, where a user can search for a variety of recipes and find the ingredients and quantities needed to make each recipe item. Also, favorite recipe items can be saved in the browser's local storage. It is easy to find different recipes for vegetarians and meat eaters, as well as those who want to lose weight.
-
-You're one-stop for recipes, It is the best app for any type of cooking and cooking level. Browse what's trending, plan your meals with our grocery list tool, and browse recipes by ingredient. There's nothing like a well-prepared meal to make you feel like a culinary genius!
+Recipe Finder is a recipe web application, where a user can search for a variety of recipes and find the ingredients and quantities needed to make each recipe item. Also, favorite recipe items can be saved in the browser's local storage. It is easy to find different recipes for vegetarians and meat eaters, as well as those who want to lose weight. There's nothing like a well-prepared meal to make you feel like a culinary genius!
 Features
 
     Users can search different kinds of recipes and get the ingredients for these
@@ -31,4 +29,5 @@ npm i
 Conclusion:
 
 A recipe web application based not only on a list of recipes with ingredients but a database created by food lovers, for food lovers. Search through thousands of the best recipes worldwide and find what you're looking for without leaving your daily routine Give it a go!
+
 Thanks for visiting this repo!
