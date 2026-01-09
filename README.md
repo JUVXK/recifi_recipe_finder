@@ -21,11 +21,10 @@ Tech Stack
 
 How to use this repo?
 
-Download or clone this repo and run the following command in the terminal:
-
-npm install
-or
-npm i
+    Download or clone this repo and run the following command in the terminal:
+    npm install
+    or
+    npm i
 
 Give it a go!
 
